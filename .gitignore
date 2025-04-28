@@ -1,0 +1,55 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# macOS artifacts
+.DS_Store
+._*
+
+# Python
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+*.eggs/
+dist/
+build/
+
+# Flask
+instance/
+webapp.db
+
+# Node / Next.js
+node_modules/
+.next/
+#.next
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# VSCode & IDEs
+.vscode/
+.idea/
+
+# Tests cache
+pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage*
+
+# Misc
+*.sqlite3
+*.lock
+*.log 

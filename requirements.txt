@@ -1,0 +1,9 @@
+flask>=3.0
+azure-identity>=1.15.0
+azure-ai-inference>=1.0.0b5
+azure-search-documents>=11.4.0
+azure-storage-blob>=12.17.0
+azure-monitor-opentelemetry>=1.0.0b18
+msal>=1.26.0
+python-docx>=1.0.0
+requests>=2.31.0 
